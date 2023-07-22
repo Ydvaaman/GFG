@@ -1,4 +1,4 @@
-<h2><a href="https://practice.geeksforgeeks.org/problems/check-for-bst/0">Check for BST</a></h2><h3>Difficulty Level : Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Given the root of a&nbsp;binary tree. Check whether it is a BST or not.<br>
+<h3><a href="https://practice.geeksforgeeks.org/problems/check-for-bst/0">Check for BST</a></h3><h3>Difficulty Level : Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Given the root of a&nbsp;binary tree. Check whether it is a BST or not.<br>
 <strong>Note: </strong>We are considering that BSTs can not contain duplicate Nodes.</span><br>
 <span style="font-size:18px">A&nbsp;<strong>BST</strong>&nbsp;is defined as follows:</span></p>
 
